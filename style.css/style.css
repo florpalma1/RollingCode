@@ -5,3 +5,15 @@
     object-fit: cover;
     height: 300px;
 }
+.badge-fuego{
+    background-color: orangered;
+}
+.badge-agua{
+    background-color: cornflowerblue;
+}
+.badge-veneno{
+    background-color: green;
+}
+.badge-planta{
+    background-color: violet;
+}
