@@ -20,3 +20,15 @@
 .badge-psiquico{
     background-color: palevioletred;
 }
+.seccion-detalle{
+    background-color: rgb(170, 165, 165);
+}
+
+.card-evolucion{
+  background-color: rgb(170, 165, 165);
+  border-color: rgb(170, 165, 165);
+}
+
+.card-balbasaur{
+    border: none;
+}
